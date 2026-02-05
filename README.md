@@ -1,5 +1,5 @@
 # Square AI Merchant Copilot
-An AI native decision assistant for Square sellers
+An AI native decision assistant for Square sellers (Product prototype and concept exploration)
 
 ## Overview
 AI Merchant Copilot is an AI powered assistant designed to help Square sellers make better day to day business decisions without requiring time spent analyzing dashboards or reports.
